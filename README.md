@@ -1,6 +1,6 @@
 # React Vücut Kitle Endeksi Hesaplama
 
-- ##### [Live](https://react-bmi-calculator.vercel.app/)
+- [Live](https://react-bmi-calculator.vercel.app/)
 
 ### Vücut Kitle Endeksi Nedir?
 Boy Kilo Endeksi veya diğer adıyla Vücut Kitle Endeksi, vücudunuzdaki tahmini yağ oranını gösteren bir değerdir.
